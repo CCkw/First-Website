@@ -32,7 +32,7 @@
       <p>For premuim, pay $43 a month</p>
     </div>
     <div class="col-sm-4">
-      <h3Sealer Seals</h3>        
+      <h3>Sealer Seals</h3>        
       <p>Since our names have seals in it, 3% of our renvenue goes to protecting seals. and 20% to the seal navy team, for taking out the drone crisis</p>
       <p>I likie meat</p>
     </div>
